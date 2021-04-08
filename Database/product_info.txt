@@ -1,0 +1,18 @@
+Product ID	Name			Price		Available QT
+2736		Soap			10.50		70
+2663		Toothpaste		40.00		185
+5524		Dish Wash		50.00		500
+2937		Wheat			49.99		491
+6627		Ice Cream		10.00		68
+2834		Chips			20.00		100
+3847		Turmeric Powder		40.25		50
+8827		Ginger			15.50		68
+2165		Flour			39.99		433
+1236		Tea Leaves		29.99		255
+9938		Chocolates		19.99		490
+293		Incense Sticks		19.99		144
+7726		Plates			34.99		827
+1029		Edible Oil		64.99		2983
+1920		Hair Oil		39.99		386
+10028		Shaving Cream		70.00		100
+273		Flowers			20.00		105
